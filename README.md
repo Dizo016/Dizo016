@@ -28,7 +28,9 @@
 
 ## 📊 GitHub Statistics
 
-![My stats](https://github-readme-stats.vercel.app/api?username=Dizo016&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dizo016&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Estatísticas do GitHub](https://github-readme-streak-stats.herokuapp.com?user=Dizo016&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
 
 ### 🔥 Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dizo016&layout=compact&theme=tokyonight)
@@ -36,6 +38,6 @@
 ---
 
 ## 📈 Contribution Graph
-[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dizo016&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dizo016&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
